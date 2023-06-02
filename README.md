@@ -17,12 +17,16 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertcangur&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false">
 </a>
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertcangur&theme=great-gatsby&hide_border=false">
+</a>
+  
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcangur&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</a>
+  
 </p>
-
- ![](https://github-readme-stats.vercel.app/api?username=mertcangur&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
- ![](https://github-readme-streak-stats.herokuapp.com/?user=mertcangur&theme=great-gatsby&hide_border=false)<br/>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcangur&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clif4d7x8002908l099qwnm2m/stats?cursusId=21&coalitionId=198" alt="mgur's 42 stats" /></a></p>
