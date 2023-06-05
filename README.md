@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Mertcan</h1>
-<h3 align="center">Jr Game Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mertcangur&label=Profile%20views&color=0e75b6&style=flat" alt="mertcangur" /> </p>
 
