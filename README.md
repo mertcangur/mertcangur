@@ -26,4 +26,4 @@
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![<mgur>'s 42 stats](https://badge.mediaplus.ma/<darkblue>/<mgur>)](https://github.com/mertcangur/badge42)
+[![mgur's 42 stats](https://badge.mediaplus.ma/levi/mgur?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
