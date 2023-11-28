@@ -26,4 +26,4 @@
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![<mgur>'s 42 stats](https://badge.mediaplus.ma/<Colorfulwaves>/<username>)](https://github.com/oakoudad/badge42)
+[![<mgur>'s 42 stats](https://badge.mediaplus.ma/<Colorfulwaves>/<mgur>)](https://github.com/oakoudad/badge42)
