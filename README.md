@@ -16,8 +16,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertcangur&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false">
 </a></p>
 
-<p  align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/mgur?1337Badge=off&UM6P=off" alt="mgur's 42 stats" /></a></p>
-
   
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertcangur&theme=great-gatsby&hide_border=false">
@@ -28,3 +26,4 @@
 </a></p>
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p  align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/mgur?1337Badge=off&UM6P=off" alt="mgur's 42 stats" /></a></p>
