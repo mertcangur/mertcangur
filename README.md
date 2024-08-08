@@ -53,7 +53,7 @@ deneme
 </div>
 
  ## Databases
- <div align="center">
+ <div>
    <div align="left>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
