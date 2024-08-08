@@ -28,7 +28,7 @@
 
  <p align="center"> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/mgur?1337Badge=off&UM6P=off" alt="mgur's 42 stats" >
  </a> </p>-->
- <div >
+ <div align="center">
    
  # 💫 About Me:
 deneme
