@@ -29,10 +29,10 @@
  <p align="center"> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/mgur?1337Badge=off&UM6P=off" alt="mgur's 42 stats" >
  </a> </p>-->
  <div align="center">
-   
+   <!-->
  # 💫 About Me:
 deneme
-
+-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mertcangur) 
@@ -68,19 +68,6 @@ deneme
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
    </div>
-</div>
-
-## deneem
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 45%;">
-    <h3>Sol Başlık</h3>
-    <p>Bu, sol başlık altındaki paragraftır. Buraya istediğiniz metni ekleyebilirsiniz.</p>
-  </div>
-  <div style="width: 45%;">
-    <h3>Sağ Başlık</h3>
-    <p>Bu, sağ başlık altındaki paragraftır. Buraya istediğiniz metni ekleyebilirsiniz.</p>
-  </div>
 </div>
 
 
