@@ -70,6 +70,20 @@ deneme
    </div>
 </div>
 
+## deneem
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 45%;">
+    <h3>Sol Başlık</h3>
+    <p>Bu, sol başlık altındaki paragraftır. Buraya istediğiniz metni ekleyebilirsiniz.</p>
+  </div>
+  <div style="width: 45%;">
+    <h3>Sağ Başlık</h3>
+    <p>Bu, sağ başlık altındaki paragraftır. Buraya istediğiniz metni ekleyebilirsiniz.</p>
+  </div>
+</div>
+
+
 ## Tools
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
